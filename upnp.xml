@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/ljm42/unraid-upnp/master/plugins/upnp.plg</PluginURL>
+<PluginAuthor>ljm42</PluginAuthor>
+<Beta>True</Beta>
+<Category>Network:Management Tools:</Category>
+<Name>UPnP Monitor</Name>
+<Description>
+This plugin gives you visibility into the UPnP activity on your network
+</Description>
+<!-- <Support>http://tbd</Support> -->
+<Icon>https://github.com/ljm42/unraid-upnp/raw/master/source/upnp/usr/local/emhttp/plugins/upnp/upnp.png</Icon>
+</Containers>
