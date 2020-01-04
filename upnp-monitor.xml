@@ -3,12 +3,12 @@
 <Plugin>True</Plugin>
 <PluginURL>https://raw.githubusercontent.com/ljm42/unraid-upnp/master/plugins/upnp-monitor.plg</PluginURL>
 <PluginAuthor>ljm42</PluginAuthor>
-<Beta>True</Beta>
-<Category>Network:Management Tools:</Category>
+<Beta>False</Beta>
+<Category>Network:Management Network:Other</Category>
 <Name>UPnP Monitor</Name>
 <Description>
-This plugin gives you visibility into the UPnP activity on your network
+Gives visibility into the UPnP activity on your network
 </Description>
-<!-- <Support>http://tbd</Support> -->
+<Support>https://forums.unraid.net/topic/86928-plugin-upnp-monitor/</Support>
 <Icon>https://raw.githubusercontent.com/ljm42/unraid-upnp/master/source/upnp-monitor/usr/local/emhttp/plugins/upnp-monitor/upnp-monitor.png</Icon>
 </Containers>
