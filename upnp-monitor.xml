@@ -4,7 +4,7 @@
 <PluginURL>https://raw.githubusercontent.com/ljm42/unraid-upnp/master/plugins/upnp-monitor.plg</PluginURL>
 <PluginAuthor>ljm42</PluginAuthor>
 <Beta>False</Beta>
-<Category>Network:Management Network:Other</Category>
+<Category>Network:Management Network:Other Security:</Category>
 <Name>UPnP Monitor</Name>
 <Description>
 Gives visibility into the UPnP activity on your network
