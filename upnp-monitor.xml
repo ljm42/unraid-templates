@@ -9,6 +9,7 @@
 <Description>
 Gives visibility into the UPnP activity on your network
 </Description>
+<MaxVer>6.11.9</MaxVer>
 <Support>https://forums.unraid.net/topic/86928-plugin-upnp-monitor/</Support>
 <Icon>https://raw.githubusercontent.com/ljm42/unraid-upnp/master/source/upnp-monitor/usr/local/emhttp/plugins/upnp-monitor/upnp-monitor.png</Icon>
 </Containers>
